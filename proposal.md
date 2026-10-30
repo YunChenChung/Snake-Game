@@ -39,4 +39,4 @@ Import the bomb if the snack eats or touches it the snack will die. The bomb wil
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-Handle the imagine, and learn how to get the player input from the arror key.
+Handle the image, and learn how to get the player input from the arror key.
