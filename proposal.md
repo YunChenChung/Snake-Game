@@ -31,11 +31,11 @@ The good would be a traditional snack game.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-Better is the player can change the food items by their own.
+Better is the player can change the food items by their own.Import the bomb if the snack eats or touches it the snack will die.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-Import the bomb if the snack eats or touches it the snack will die. The bomb will have a five seconds timer.
+The bomb will have a five seconds timer.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
